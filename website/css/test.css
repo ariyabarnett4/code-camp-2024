@@ -1,0 +1,12 @@
+*{
+color:rgb(0, 234, 255);
+font-size: xx-large;
+}
+body{
+    background-image: url(/images/backgrounds/Planet-scape-002.png);
+}
+
+img {
+width: 700px;
+height: 700px;
+}
